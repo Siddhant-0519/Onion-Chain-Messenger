@@ -1,8 +1,8 @@
-# ONION CHAIN MESSENGER
+\#ONION CHAIN MESSENGER
 
  
 
-## Usage
+\#\#Usage
 
  
 
@@ -18,7 +18,7 @@
 
  
 
-## Libraries used
+\#\# Libraries used
 
 Web3
 
@@ -40,7 +40,7 @@ json
 
  
 
-## Key methods can be found in
+\#\#Key methods can be found in
 
 src/components/Chat.js
 
